@@ -1,0 +1,137 @@
+<html lang="en">
+
+    <head>
+        <!-- <title>Canteen List</title> -->
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="../static/css/localstyle.css">
+    </head>
+
+    <!-- <style>
+        body {
+            background-color: #333333;
+            /* background-color: #f0a2fd; */
+            display: flex;
+            font-family: 'Calibri';
+            letter-spacing: 2px;
+            /* font-family: 'Comic Sans MS'; */
+            color: white;
+            /* flex-direction: row; */
+            /* flex: 1; */
+        }
+
+        .col {
+            margin: 15px;
+            /* border: 3px solid red; */
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            
+        } 
+
+        .section_header {
+            font-family: 'Apple Chancery';
+        }
+
+    </style> -->
+
+    <body>
+
+        <!-- column 1: stall logo + food img one + qr code -->
+        <div class="col">
+            <img id="stall_logo" src="" alt="Stall Logo", style="width: 100%; height: auto">
+            <img id="food_img_one" src="" alt="", style="width:100%; height: auto">
+            <h2 style="text-align: left">SCAN ME FOR NUTRITION FACTS</h2>
+            <img id="nutrition_qr_code" src="" alt="Nutrition Facts QR code", style="width: 100%; height: auto;">
+        </div>
+
+        <!-- column 2: mains + food img 2 -->
+        <div class="col">
+            <!-- mains menu items -->
+            <div class="section_header">
+                {{r['listData'][0]['FFoodCategory']}}
+            </div>
+            <div>
+                <hr>
+                <div style="display: flex; flex-direction: column; font-size: 15px;">
+                    {% for i in range(0,r['listData'][0]['foods']|length) %}
+                    <div style="display: flex; flex-direction: row;">
+                        <p style="flex: 1; text-align: left;">{{i+1}}.</p>
+                        <p style="flex: 6; text-align: left;">{{r['listData'][0]['foods'][i]['FFoodName']}}</p>
+                        <p style="flex: 1; text-align: right;">${{r['listData'][0]['foods'][i]['FPrice']|string}}0</p>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            <!-- food img 2 -->
+            <img id="food_img_two" src="" alt="" style="width: 100%; height: auto;">
+        </div>
+
+        <!-- column 3: food img 3 + snacks + crepes -->
+        <div class="col">
+            <img id="food_img_three" src="" alt="" style="width: 100%; height: auto">
+            <div class="section_header">
+                {{r['listData'][1]['FFoodCategory']}}
+            </div>
+            <div>
+                <hr>
+                <div style="display: flex; flex-direction: column; font-size: 15px;">
+                    {% for i in range(0,r['listData'][1]['foods']|length) %}
+                    <div style="display: flex; flex-direction: row;">
+                        <p style="flex: 1; text-align: left;">{{i+1}}.</p>
+                        <p style="flex: 6; text-align: left;">{{r['listData'][1]['foods'][i]['FFoodName']}}</p>
+                        <p style="flex: 1; text-align: right;">${{r['listData'][1]['foods'][i]['FPrice']|string}}0</p>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+        <!-- column 4: pancake + sandwich + food img 4 -->
+        <div class="col">
+            <div class="section_header">
+                {{r['listData'][0]['FFoodCategory']}}
+            </div>
+            <div>
+                <hr>
+                <div style="display: flex; flex-direction: column; font-size: 15px;">
+                    {% for i in range(0,r['listData'][0]['foods']|length) %}
+                    <div style="display: flex; flex-direction: row;">
+                        <p style="flex: 1; text-align: left;">{{i+1}}.</p>
+                        <p style="flex: 6; text-align: left;">{{r['listData'][0]['foods'][i]['FFoodName']}}</p>
+                        <p style="flex: 1; text-align: right;">${{r['listData'][0]['foods'][i]['FPrice']|string}}0</p>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            <img id="food_img_four" src="" alt="" style="width: 100%; height: auto">
+        </div>
+
+    </body>
+
+    <script>
+
+        // column 1
+        var stall_logo_link = document.getElementById('stall_logo')
+        stall_logo_link.src = "https://taiwanichiban.com/images/Logo.png"
+
+        var food_img_one_link = document.getElementById('food_img_one')
+        food_img_one_link.src = "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a52427905c9.jpg"
+
+        var nutrition_qr_code_link = document.getElementById('nutrition_qr_code')
+        nutrition_qr_code_link.src = "https://lh3.googleusercontent.com/proxy/rH82NJWU6t73EdFC34PCT0XMd6gzKhqguknPdceBlUnMwNTHinfHSu3I4C0R-JoJ4Dph7HgCHo_vyYkPLa7AJ5gFVB_b3YZB2uZSqbhZAF21F19TLhV6x4pM"
+
+        // column 2
+        var food_img_two_link = document.getElementById('food_img_two')
+        food_img_two_link.src = "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a524173051c.png"
+
+        // column 3
+        var food_img_three_link = document.getElementById('food_img_three')
+        food_img_three_link.src = "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5242cb05fa.jpg"
+
+        // column 4
+        var food_img_four_link = document.getElementById('food_img_four')
+        food_img_four_link.src = "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a52439e065d.jpg"
+
+    </script>
+
+</html>

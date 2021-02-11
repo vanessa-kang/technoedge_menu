@@ -1,0 +1,405 @@
+{
+    "listData": [
+        {
+            "FFoodCategory": "MAIN DISHES",
+            "foods": [
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a524173051c.png"
+                        }
+                    ],
+                    "FFoodName": "HONEY CHICKEN CHOP RICE ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a524172051b",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 5.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5241bf0550.jpg"
+                        }
+                    ],
+                    "FFoodName": "TAIWANESE PORK CHOP RICE ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5241be054f",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 5.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5241e60569.jpg"
+                        }
+                    ],
+                    "FFoodName": "SALTED CRISPY CHICKEN RICE ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5241e50568",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 5.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a52420c0589.jpg"
+                        }
+                    ],
+                    "FFoodName": "SESAME SEED CHICKEN RICE",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a52420b0588",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 5.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a52423305a3.jpg"
+                        }
+                    ],
+                    "FFoodName": "TAIWANESE SWEET & SOUR CHICKEN RICE ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a52423205a2",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 5.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a52425705b6.png"
+                        }
+                    ],
+                    "FFoodName": "TERIYAKI CHICKEN RICE ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a52425505b5",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 5.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a52427905c9.jpg"
+                        }
+                    ],
+                    "FFoodName": "TAIWANESE BRAISED PORK RICE ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a52427805c8",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 3.8,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a52429005d5.jpg"
+                        }
+                    ],
+                    "FFoodName": "OYSTER MEE SUA",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a52428e05d4",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 3.8,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5242ae05e7.jpg"
+                        }
+                    ],
+                    "FFoodName": "MALA CHICKEN CHOP RICE ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5242ad05e6",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 5.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                }
+            ]
+        },
+        {
+            "FFoodCategory": "SIDE DISHES",
+            "foods": [
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5242cb05fa.jpg"
+                        }
+                    ],
+                    "FFoodName": "HONEY GLAZED CHICKEN CHOP ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5242c905f9",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 4.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5242ee060e.jpg"
+                        }
+                    ],
+                    "FFoodName": "SESAME SEED CRISPY CHICKEN (S) ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5242ed060d",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 3.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5243000618.jpg"
+                        }
+                    ],
+                    "FFoodName": "SESAME SEED CRISPY CHICKEN (M) ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5242ff0617",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 4.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5243150622.jpg"
+                        }
+                    ],
+                    "FFoodName": "SESAME SEED CRISPY CHICKEN (L) ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5243140621",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 5.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a52432d062c.jpg"
+                        }
+                    ],
+                    "FFoodName": "SALTED CRISPY CHICKEN  (S)",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a52432c062b",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 3.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5243440636.jpg"
+                        }
+                    ],
+                    "FFoodName": "SALTED CRISPY CHICKEN  (M)",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5243420635",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 4.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a52435b0640.jpg"
+                        }
+                    ],
+                    "FFoodName": "SALTED CRISPY CHICKEN  (L)",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a52435a063f",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 5.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a524373064a.jpg"
+                        }
+                    ],
+                    "FFoodName": "TAIWANESE SWEET & SOUR CHICKEN ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5243710649",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 3.8,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5243840651.jpg"
+                        }
+                    ],
+                    "FFoodName": "TERIYAKI CHICKEN ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5243830650",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 3.8,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5243930658.jpg"
+                        }
+                    ],
+                    "FFoodName": "MA LA CHICKEN CHOP ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5243920657",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 4.0,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a52439e065d.jpg"
+                        }
+                    ],
+                    "FFoodName": "CRISPY MUSHROOM SHITAKE ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a52439d065c",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 2.5,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5243b20667.jpg"
+                        }
+                    ],
+                    "FFoodName": "FISH TEMPURA ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5243b10666",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 2.5,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5243c90671.jpg"
+                        }
+                    ],
+                    "FFoodName": "CRISPY SWEET POTATO FRIES ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5243c80670",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 2.5,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                },
+                {
+                    "FMerchantName": "Taiwan Ichiban",
+                    "Imgs": [
+                        {
+                            "FUrl": "https://food.nus-apps.com/smart-dining/upload/food/portal/402880e5762b562c01762b563fb60019/09042d967647b0c001764a5243e00677.jpg"
+                        }
+                    ],
+                    "FFoodName": "CRISPY SOTONG ",
+                    "FDescAlt": "",
+                    "FStatusFromGroup": "AvailableStatus",
+                    "FFoodId": "09042d967647b0c001764a5243de0676",
+                    "FMerchantId": "402880e5762b562c01762b563fb60019",
+                    "FavoriteState": "false",
+                    "FPrice": 2.8,
+                    "FRating": 0.0,
+                    "FDesc": ""
+                }
+            ]
+        }
+    ]
+}
